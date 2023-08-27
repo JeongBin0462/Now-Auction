@@ -74,7 +74,7 @@
 | 역할 | 기획 </br> 업무 현황 파악 </br> 상품등록 </br> 회원정보변경 | DB관리 </br> 물품검색 </br> 캐시구현 | 디자인 총괄 </br> 사용설명서 | 회원가입 </br> 로그인 </br> 디버깅 </br> 메인 분류 | 스케줄러 </br> 마이페이지 </br> 메인 정렬 </br> 입찰화면 |
 
 # :scroll: <a name="function">기능</a>
-[상세보기](https://github.com/Psh230412/0623Start/blob/master/Presentation.md)
+[상세보기](https://github.com/JeongBin0462/Now-Auction/blob/master/Presentation.md)
 
 # :mag_right: <a name="#fullfill">보완할점</a>
 ### 1. 금액 충전, 결제시스템 추가
